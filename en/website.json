@@ -991,5 +991,8 @@
     "premium_table_support": "Pritorized Support", 
     "premium_table_other_features": "Other Features", 
     "landing_join_over": "Join over {0} servers using ProBot", 
-    "browser_features": "Browse Features" 
+    "browser_features": "Browse Features", 
+    "colors_colors_sets": "Colors Sets", 
+    "colors_sets_number": "{0} Colors", 
+    "colors_sets_suggest": "Suggest More Colors!" 
 }
